@@ -76,3 +76,4 @@ username, and email, continue to the next lesson, **Verify and Troubleshoot Your
 Environment Setup**.
 
 [base]: https://base.flatironschool.com/account/manage
+Roshel
